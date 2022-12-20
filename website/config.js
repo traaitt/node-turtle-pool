@@ -1,8 +1,8 @@
-var api = 'http://poolhost.com:8117'
+var api = 'https://mine.traaittcash.com'
 
-var api_blockexplorer = 'http://daemonhost.com:11898'
+var api_blockexplorer = 'https://xtcashexplorer.trrxitte.com'
 
-var poolHost = 'poolhost.com'
+var poolHost = 'mine.traaittcash.com'
 
 var irc = 'irc.freenode.net/#poolhost'
 
@@ -10,13 +10,13 @@ var email = 'support@poolhost.com'
 
 var cryptonatorWidget = ['{symbol}-BTC', '{symbol}-USD', '{symbol}-EUR']
 
-var easyminerDownload = 'https://github.com/zone117x/cryptonote-easy-miner/releases/'
+var easyminerDownload = 'https://github.com/TRRXITTE/miner/releases/tag/0.0.1'
 
-var blockchainExplorer = 'http://chainradar.com/{symbol}/block/{id}'
+var blockchainExplorer = 'https://interface.traaittcash.com/block.html?hash={id}'
 
-var transactionExplorer = 'http://chainradar.com/{symbol}/transaction/{id}'
+var transactionExplorer = 'https://interface.traaittcash.com/transaction.html?hash={id}'
 
-var themeCss = 'themes/default-theme.css'
+var themeCss = 'themes/motherboard-dark-theme.css'
 
 var networkStat = {
   'bcn': [
